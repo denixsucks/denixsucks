@@ -17,7 +17,7 @@
 # More About Me
 
 ```c#
-public readonly string[] code = { "C/C++", "C#", "ShaderLab/GLSL/HLSL", "Lua", "Python", "NodeJS" };
-string[] use = { "Linux", "Unity", "Godot", "Blender" };
-string[] work = { "currently in university" };
+private string[] code = { "C/C++", "C#", "ShaderLab/GLSL/HLSL", "Lua", "Python", "NodeJS" };
+private string[] use = { "Linux", "Unity", "Godot", "Blender" };
+public string[] work = { "currently in university" };
 ```
