@@ -14,7 +14,7 @@
 # More About Me
 
 ```javascript
-const I_CODE = "C/C++, C#, ShaderLab/GLSL/HLSL, Lua, Python, NodeJS."
+public readonly string[] icode = { "C/C++", "C#", "ShaderLab/GLSL/HLSL", "Lua", "Python", "NodeJS" };
 var i_use = "Linux, Unity, Godot, Blender."
 var i_work = "currently in university"
 ```
