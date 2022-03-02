@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, It's i, Denix.
 
-<!--
-**denixsucks/denixsucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h2 align="left"> I study computer engineering.</h2>
+<h2 align="right"> > I do game dev</h2> 
+<h2>shaders < </h2> 
+<br>
+<p align="center"> > and a lil' bit of graphics programming. < </p>
+<div align="center"><a href="https://denixsucks.github.io"> ~ My Website ~</a>
+</div>
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
+# More About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const I_CODE = "C/C++, C#, ShaderLab/GLSL/HLSL, Lua, Python, NodeJS."
+var i_use = "Linux, Unity, Godot, Blender."
+var i_work = "currently in university"
+```
