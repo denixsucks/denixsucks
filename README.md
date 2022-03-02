@@ -1,8 +1,9 @@
 # Hello, It's i, Denix.
 
-<h3 align="left"> I study computer engineering.</h3>
-<h4 align="right"> > I do game dev</h4> 
-<h5>shaders < </h5>
+<br>
+<h2 align="left"> I study computer engineering.</h2>
+<h2 align="right"> > I do game dev</h2> 
+<h2>shaders < </h2> 
 <br>
 <p align="center"> > and a lil' bit of graphics programming. < </p>
 <div align="center"><a href="https://denixsucks.github.io"> ~ My Website ~</a>
@@ -13,8 +14,8 @@
 
 # More About Me
 
-```javascript
-public readonly string[] icode = { "C/C++", "C#", "ShaderLab/GLSL/HLSL", "Lua", "Python", "NodeJS" };
-var i_use = "Linux, Unity, Godot, Blender."
-var i_work = "currently in university"
+```c#
+public readonly string[] code = { "C/C++", "C#", "ShaderLab/GLSL/HLSL", "Lua", "Python", "NodeJS" };
+string[] use = { "Linux", "Unity", "Godot", "Blender" };
+string[] work = { "currently in university" };
 ```
