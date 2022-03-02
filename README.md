@@ -1,5 +1,6 @@
+<div align="center">
 # Hello, It's i, Denix.
-
+</div>
 <h3 align="left"> I study computer engineering.</h3>
 <h4 align="right"> > I do game dev</h4> 
 <h5>shaders < </h5> 
